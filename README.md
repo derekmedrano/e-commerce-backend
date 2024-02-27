@@ -5,6 +5,12 @@ This application handles the back end function of an e-commerce website using My
 
 Here's a quick demo of some requests ran in Insomnia, using this backend app:
 
+
+
+https://github.com/derekmedrano/e-commerce-backend/assets/42650709/025ee7ec-a8a2-4a86-be97-3c186b5c90e4
+
+
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
