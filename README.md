@@ -33,7 +33,7 @@ IMPORTANT: USERS MUST SPECIFY THEIR OWN LOGIN CREDENTIALS IN .ENV FILE FOR MYSQL
 
 <hr>
 Here's some of the code located in the directory above. In order to keep the readme from being too long I am only posting some of the index files, <br>
-so if you want to look at specific pieces of code like seeds/databases or routes, please refer to the above library.
+so if you want to look at specific pieces of code like seeds/databases or routes, please refer to the above library. <br>
 
 Screenshot of the connection.js file <br>
 ![cs_1](https://github.com/derekmedrano/e-commerce-backend/assets/42650709/77ced084-f89a-46d8-84b6-14c12650d2f1)
